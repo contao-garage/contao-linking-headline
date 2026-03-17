@@ -1,0 +1,13 @@
+services:
+    _defaults:
+        autoconfigure: true
+
+    ContaoGarage\LinkingHeadline\Controller\ContentElement\LinkingHeadlineController:
+        arguments:
+            - '@contao.insert_tag.parser'
+        tags:
+            -
+                name: 'contao.content_element'
+                category: 'links'
+                type: 'linking_headline'
+                template: 'content_element/linking_headline'

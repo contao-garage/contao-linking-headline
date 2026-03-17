@@ -1,0 +1,12 @@
+<?xml version="1.0" ?><xliff version="1.1">
+  <file datatype="php" original="contao/languages/en/default.php" source-language="en" target-language="de">
+    <body>
+      <trans-unit id="CTE.linking_headline.0">
+        <source>Linking headline</source>
+      </trans-unit>
+      <trans-unit id="CTE.linking_headline.1">
+        <source>Generates a headline (h1 - h6) linking to a target URL.</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

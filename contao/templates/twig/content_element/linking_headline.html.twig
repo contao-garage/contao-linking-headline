@@ -1,0 +1,4 @@
+{% extends "@Contao/content_element/headline.html.twig" %}
+
+{% block headline_inner %}<a{{ attrs(link_attributes|default) }}>{{ parent() }}</a>{% endblock %}
+
