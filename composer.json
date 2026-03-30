@@ -2,6 +2,11 @@
     "name": "contao-garage/contao-linking-headline",
     "description": "Contao 5 CMS module providing a headline element linking to a target url",
     "type": "contao-bundle",
+    "keywords": ["contao bundle", "linking headline", "content element"],
+    "support": {
+        "issues": "https://github.com/contao-garage/contao-linking-headline/issues",
+        "source": "https://github.com/contao-garage/contao-linking-headline"
+    },
     "homepage": "https://contao-garage.de",
     "license": "MIT",
     "authors": [
