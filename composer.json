@@ -1,6 +1,6 @@
 {
     "name": "contao-garage/contao-linking-headline",
-    "description": "Contao 5 CMS module providing a headline element linking to a target url",
+    "description": "Contao 5 CMS module providing a headline element linking to a target url.",
     "type": "contao-bundle",
     "keywords": ["contao bundle", "linking headline", "content element"],
     "support": {
